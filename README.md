@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucy-ctrl
 - 👀 I’m interested in C#, Xamarin, Automation Testing & UX
-- 🌱 I’m currently learning Xamarin
+- 🌱 I’m currently learning Xamarin, React & Express
 - 💞️ I’m looking to collaborate on Mobile Applications
 - 📫 How to reach me ...
 
