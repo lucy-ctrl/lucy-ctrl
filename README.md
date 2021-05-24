@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lucy-ctrl
-- 👀 I’m interested in C#, Xamarin, Automation Testing & UX
-- 🌱 I’m currently learning Clojure, Xamarin & CUDA
+- 👀 I’m interested in C#, Xamarin, Automation Testing & API testing
+- 🌱 I’m currently learning Xamarin & Offensive security techniques
 - 💞️ I’m looking to collaborate on Mobile Applications
-- 📫 How to reach me ...
+- 📫 How to reach me, email me at hlucy03@gmail.com
 
 <!---
 lucy-ctrl/lucy-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
