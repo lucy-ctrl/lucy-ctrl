@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucy-ctrl
-- 👀 I’m interested in C#, Xamarin, Automation Testing & API testing
-- 🌱 I’m currently learning Xamarin & Offensive security techniques
+- 👀 I’m interested in Web Dev, automation testing & C#
+- 🌱 I’m currently learning web dev & Unity (c#)
 - 💞️ I’m looking to collaborate on Mobile Applications
 
 
