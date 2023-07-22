@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucy-ctrl
-- 👀 I’m interested in Web Dev, automation testing & C#
-- 🌱 I’m currently learning web dev & Unity (c#)
+- 👀 I’m interested in Mobile development, scripting and Linux 
+- 🌱 I’m currently learning bash, c#
 - 💞️ I’m looking to collaborate on Mobile Applications
 
 
